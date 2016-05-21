@@ -1,0 +1,23 @@
+{
+    "name": "tmsg",
+    "version": "1.0.0",
+    "description": "发送模板消息",
+    "engines": {
+      "node": ">= 4.0.0"
+    },
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/progrape/tmsg.git"
+    },
+    "keywords": ["wechat", "weixin", "template message", "模板消息"],
+    "author": "jf <xingzhewujiang1999@gmail.com>",
+    "bugs": {
+      "url": "https://github.com/progrape/tmsg/issues"
+    },
+    "homepage": "https://github.com/progrape/tmsg#readme",
+    "license": "MIT"
+}
