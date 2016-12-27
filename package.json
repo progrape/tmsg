@@ -1,5 +1,5 @@
 {
-    "name": "tmsg",
+    "name": "tmsg2",
     "version": "1.0.0",
     "description": "发送模板消息",
     "engines": {
@@ -11,13 +11,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/progrape/tmsg.git"
+      "url": "git+https://github.com/raighneweng/tmsg.git"
     },
     "keywords": ["wechat", "weixin", "template message", "模板消息"],
-    "author": "jf <xingzhewujiang1999@gmail.com>",
+    "author": "jf <raighneweng@gmail.com>",
     "bugs": {
-      "url": "https://github.com/progrape/tmsg/issues"
+      "url": "https://github.com/raighneweng/tmsg/issues"
     },
-    "homepage": "https://github.com/progrape/tmsg#readme",
+    "homepage": "https://github.com/raighneweng/tmsg#readme",
     "license": "MIT"
 }
