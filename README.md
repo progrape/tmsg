@@ -8,7 +8,7 @@ tmsg 是一个 `node.js` 写的用于发送微信模板消息的模块。
 下载：
 
 ```
-npm install --save tmsg
+npm install --save tmsg2
 ```
 
 使用（node.js 版本 >= 4.0.0）：
