@@ -1,6 +1,6 @@
 {
     "name": "tmsg2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "发送模板消息",
     "engines": {
       "node": ">= 4.0.0"
